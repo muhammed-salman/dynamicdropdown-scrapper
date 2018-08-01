@@ -1,0 +1,437 @@
+1533121058125	geckodriver	INFO	geckodriver 0.21.0
+1533121058133	geckodriver	INFO	Listening on 127.0.0.1:56991
+1533121058172	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.ZLBedtarKpR9"
+2018-08-01 16:27:41.237 plugin-container[62484:3436175] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:27:41.576 plugin-container[62485:3436197] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8047, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533121061777	Marionette	INFO	Listening on port 56996
+1533121061874	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:27:42.679 plugin-container[62486:3436308] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533121103735	geckodriver	INFO	geckodriver 0.21.0
+1533121103743	geckodriver	INFO	Listening on 127.0.0.1:57208
+1533121104763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.svgDCejjpYiV"
+2018-08-01 16:28:27.130 plugin-container[62497:3436960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8947, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:28:27.527 plugin-container[62498:3436984] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x810b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533121108010	Marionette	INFO	Listening on port 57220
+1533121108051	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:28:28.140 plugin-container[62499:3437091] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7007, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+2018-08-01 16:28:37.886 plugin-container[62502:3437368] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533121314346	geckodriver	INFO	geckodriver 0.21.0
+1533121314355	geckodriver	INFO	Listening on 127.0.0.1:57912
+1533121315372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.NO3SlFfM61fL"
+2018-08-01 16:31:57.401 plugin-container[62534:3439797] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:31:57.784 plugin-container[62535:3439822] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533121318193	Marionette	INFO	Listening on port 57923
+1533121318252	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:31:58.881 plugin-container[62536:3439949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533121418938	geckodriver	INFO	geckodriver 0.21.0
+1533121418947	geckodriver	INFO	Listening on 127.0.0.1:58284
+1533121419965	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.JJIhQw6f3dzg"
+2018-08-01 16:33:41.926 plugin-container[62552:3441222] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:33:42.308 plugin-container[62553:3441249] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x730b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533121422711	Marionette	INFO	Listening on port 58291
+1533121422772	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:33:43.317 plugin-container[62554:3441358] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+2018-08-01 16:33:56.036 plugin-container[62556:3441534] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533121449876	geckodriver	INFO	geckodriver 0.21.0
+1533121449883	geckodriver	INFO	Listening on 127.0.0.1:58422
+1533121450902	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.pFu6p7DFDWu7"
+2018-08-01 16:34:12.744 plugin-container[62561:3441977] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x780b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:34:13.004 plugin-container[62562:3442000] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533121453250	Marionette	INFO	Listening on port 58429
+1533121453287	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:34:13.979 plugin-container[62563:3442122] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533121500183	geckodriver	INFO	geckodriver 0.21.0
+1533121500190	geckodriver	INFO	Listening on 127.0.0.1:58607
+1533121501205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.23MNVVYJeUQZ"
+2018-08-01 16:35:03.121 plugin-container[62573:3442843] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:35:03.567 plugin-container[62574:3442869] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533121504089	Marionette	INFO	Listening on port 58618
+1533121504204	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:35:04.229 plugin-container[62575:3442979] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+2018-08-01 16:35:48.951 plugin-container[62582:3443618] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533121723408	geckodriver	INFO	geckodriver 0.21.0
+1533121723424	geckodriver	INFO	Listening on 127.0.0.1:59438
+1533121724434	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.RdIMXtmns3SY"
+2018-08-01 16:38:46.473 plugin-container[62608:3445657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:38:46.867 plugin-container[62609:3445692] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533121727378	Marionette	INFO	Listening on port 59445
+1533121727436	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:38:47.703 plugin-container[62610:3445803] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533121818339	geckodriver	INFO	geckodriver 0.21.0
+1533121818346	geckodriver	INFO	Listening on 127.0.0.1:59749
+1533121819366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.FdD8Ns4kliHt"
+2018-08-01 16:40:21.376 plugin-container[62624:3446909] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:40:21.697 plugin-container[62625:3446933] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533121822058	Marionette	INFO	Listening on port 59762
+1533121822170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+2018-08-01 16:40:23.451 plugin-container[62627:3447059] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:40:41.413 plugin-container[62630:3447280] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7307, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533121887465	geckodriver	INFO	geckodriver 0.21.0
+1533121887472	geckodriver	INFO	Listening on 127.0.0.1:60008
+1533121888499	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.86LGqjKACzJV"
+2018-08-01 16:41:30.757 plugin-container[62639:3448041] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8747, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:41:31.176 plugin-container[62640:3448067] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533121891503	Marionette	INFO	Listening on port 60015
+1533121891641	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:41:31.821 plugin-container[62642:3448177] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x880b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533121905115	geckodriver	INFO	geckodriver 0.21.0
+1533121905126	geckodriver	INFO	Listening on 127.0.0.1:60120
+1533121906138	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.Z2FLMbHQ2Wt1"
+2018-08-01 16:41:48.343 plugin-container[62649:3448542] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8947, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:41:48.715 plugin-container[62650:3448573] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8947, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533121908903	Marionette	INFO	Listening on port 60132
+1533121909017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+2018-08-01 16:41:50.500 plugin-container[62652:3448711] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533122030742	geckodriver	INFO	geckodriver 0.21.0
+1533122030749	geckodriver	INFO	Listening on 127.0.0.1:60516
+1533122031766	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.oaAduvJ16q8I"
+2018-08-01 16:43:54.210 plugin-container[62671:3450184] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:43:54.447 plugin-container[62672:3450206] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533122034620	Marionette	INFO	Listening on port 60528
+1533122034725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+2018-08-01 16:43:55.722 plugin-container[62673:3450333] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8647, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533122226469	geckodriver	INFO	geckodriver 0.21.0
+1533122226478	geckodriver	INFO	Listening on 127.0.0.1:61275
+1533122227489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.YrwbUk9Z0eRX"
+2018-08-01 16:47:10.199 plugin-container[62712:3452872] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:47:10.403 plugin-container[62713:3452895] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533122230692	Marionette	INFO	Listening on port 61282
+1533122230786	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:47:11.278 plugin-container[62714:3453005] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533122298138	geckodriver	INFO	geckodriver 0.21.0
+1533122298147	geckodriver	INFO	Listening on 127.0.0.1:61560
+1533122299161	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.VEjpoQ9ssDxk"
+2018-08-01 16:48:21.251 plugin-container[62726:3453875] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:48:21.440 plugin-container[62727:3453897] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533122301679	Marionette	INFO	Listening on port 61571
+1533122301736	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:48:22.400 plugin-container[62728:3454005] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533122308000	geckodriver	INFO	geckodriver 0.21.0
+1533122308008	geckodriver	INFO	Listening on 127.0.0.1:61645
+1533122309031	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.OVBc7gGhuCxS"
+2018-08-01 16:48:31.123 plugin-container[62732:3454254] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:48:31.304 plugin-container[62733:3454275] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533122311447	Marionette	INFO	Listening on port 61652
+1533122311527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+2018-08-01 16:48:32.269 plugin-container[62734:3454391] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x762f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533122383826	geckodriver	INFO	geckodriver 0.21.0
+1533122383839	geckodriver	INFO	Listening on 127.0.0.1:61912
+1533122384849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.BdvnYUAJO9XX"
+2018-08-01 16:49:46.730 plugin-container[62745:3455316] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:49:47.173 plugin-container[62746:3455341] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7647, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533122387594	Marionette	INFO	Listening on port 61924
+1533122387646	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:49:48.134 plugin-container[62748:3455451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533122587513	geckodriver	INFO	geckodriver 0.21.0
+1533122587521	geckodriver	INFO	Listening on 127.0.0.1:62495
+1533122588540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.SGocD8sOFswR"
+2018-08-01 16:53:10.589 plugin-container[62773:3457603] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:53:10.958 plugin-container[62775:3457633] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533122591226	Marionette	INFO	Listening on port 62506
+1533122591323	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:53:12.104 plugin-container[62776:3457753] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533122861905	geckodriver	INFO	geckodriver 0.21.0
+1533122861916	geckodriver	INFO	Listening on 127.0.0.1:63472
+1533122862928	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.HCbjSQBSzehC"
+2018-08-01 16:57:45.211 plugin-container[62808:3460796] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x780f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:57:45.497 plugin-container[62809:3460819] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533122865667	Marionette	INFO	Listening on port 63484
+1533122865765	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:57:46.710 plugin-container[62810:3460964] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533122882420	geckodriver	INFO	geckodriver 0.21.0
+1533122882428	geckodriver	INFO	Listening on 127.0.0.1:63581
+1533122883450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.zWF8veXFsgRl"
+2018-08-01 16:58:05.749 plugin-container[62817:3461374] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:58:06.069 plugin-container[62818:3461400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x870b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533122886573	Marionette	INFO	Listening on port 63593
+1533122886649	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:58:06.906 plugin-container[62820:3461515] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533122909123	geckodriver	INFO	geckodriver 0.21.0
+1533122909130	geckodriver	INFO	Listening on 127.0.0.1:63722
+1533122910148	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.gXVrRZauIHxp"
+2018-08-01 16:58:32.403 plugin-container[62829:3461949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 16:58:33.026 plugin-container[62830:3461978] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7847, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533122913549	Marionette	INFO	Listening on port 63729
+1533122913659	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 16:58:33.850 plugin-container[62831:3462088] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533123116511	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1533123116523	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533123116527	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533130186892	geckodriver	INFO	geckodriver 0.21.0
+1533130186902	geckodriver	INFO	Listening on 127.0.0.1:65114
+1533130187915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.zK7XK7ALUKwt"
+2018-08-01 18:59:49.952 plugin-container[62907:3468790] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 18:59:50.438 plugin-container[62908:3468819] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x880b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533130190983	Marionette	INFO	Listening on port 65126
+1533130191120	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 18:59:51.598 plugin-container[62911:3468931] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533130222633	geckodriver	INFO	geckodriver 0.21.0
+1533130222641	geckodriver	INFO	Listening on 127.0.0.1:65299
+1533130223656	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.24xeg7kvZmZC"
+2018-08-01 19:00:25.554 plugin-container[62919:3469465] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 19:00:25.978 plugin-container[62920:3469494] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533130226295	Marionette	INFO	Listening on port 65310
+1533130226365	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 19:00:27.008 plugin-container[62921:3469624] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533131223297	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533131239675	geckodriver	INFO	geckodriver 0.21.0
+1533131239684	geckodriver	INFO	Listening on 127.0.0.1:49453
+1533131240700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.zUVV3UgdJmj6"
+2018-08-01 19:17:22.690 plugin-container[62953:3472312] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 19:17:23.073 plugin-container[62954:3472336] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533131243412	Marionette	INFO	Listening on port 49464
+1533131243491	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 19:17:24.242 plugin-container[62956:3472450] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533131785289	geckodriver	INFO	geckodriver 0.21.0
+1533131785298	geckodriver	INFO	Listening on 127.0.0.1:51216
+1533131786316	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.pHJ1Emo34z9f"
+2018-08-01 19:26:28.721 plugin-container[63038:3478169] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7547, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 19:26:29.040 plugin-container[63039:3478198] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533131789212	Marionette	INFO	Listening on port 51227
+1533131789310	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 19:26:29.951 plugin-container[63040:3478321] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533134110322	geckodriver	INFO	geckodriver 0.21.0
+1533134110334	geckodriver	INFO	Listening on 127.0.0.1:58215
+1533134111349	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.4O8zj8VgSPCj"
+2018-08-01 20:05:13.643 plugin-container[63329:3501497] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7747, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 20:05:14.040 plugin-container[63330:3501521] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533134114304	Marionette	INFO	Listening on port 58226
+1533134114372	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 20:05:15.238 plugin-container[63331:3501634] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533140420832	geckodriver	INFO	geckodriver 0.21.0
+1533140420848	geckodriver	INFO	Listening on 127.0.0.1:49950
+1533140421861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.ke1BQwRA75FX"
+2018-08-01 21:50:24.317 plugin-container[63706:3535065] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 21:50:24.557 plugin-container[63707:3535093] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533140424868	Marionette	INFO	Listening on port 49961
+1533140424948	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 21:50:25.838 plugin-container[63709:3535228] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533140473717	geckodriver	INFO	geckodriver 0.21.0
+1533140473725	geckodriver	INFO	Listening on 127.0.0.1:50197
+1533140474739	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.po4h947NcFsT"
+2018-08-01 21:51:16.675 plugin-container[63721:3535940] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x830b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 21:51:17.039 plugin-container[63722:3535963] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533140477327	Marionette	INFO	Listening on port 50208
+1533140477421	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 21:51:18.093 plugin-container[63723:3536074] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533140949854	geckodriver	INFO	geckodriver 0.21.0
+1533140949866	geckodriver	INFO	Listening on 127.0.0.1:51790
+1533140950876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.oW9TqWD1jNGJ"
+2018-08-01 21:59:12.972 plugin-container[63778:3540942] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 21:59:13.339 plugin-container[63779:3540969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533140953783	Marionette	INFO	Listening on port 51801
+1533140953925	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 21:59:14.410 plugin-container[63780:3541086] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533141167428	geckodriver	INFO	geckodriver 0.21.0
+1533141167436	geckodriver	INFO	Listening on 127.0.0.1:52576
+1533141168450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.cD6M3i4AwCAz"
+2018-08-01 22:02:50.777 plugin-container[63812:3543483] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 22:02:51.193 plugin-container[63813:3543507] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533141171284	Marionette	INFO	Listening on port 52587
+1533141171339	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 22:02:52.160 plugin-container[63814:3543618] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533141251602	geckodriver	INFO	geckodriver 0.21.0
+1533141251613	geckodriver	INFO	Listening on 127.0.0.1:52877
+1533141252630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.cRIIzSStsASK"
+2018-08-01 22:04:15.143 plugin-container[63828:3544584] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 22:04:15.410 plugin-container[63829:3544611] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533141255969	Marionette	INFO	Listening on port 52889
+1533141256020	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 22:04:16.137 plugin-container[63830:3544714] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7907, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-08-01 22:04:34.350 plugin-container[63834:3544995] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533141701941	geckodriver	INFO	geckodriver 0.21.0
+1533141701952	geckodriver	INFO	Listening on 127.0.0.1:54467
+1533141702966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.L5q8QdxrmnK5"
+2018-08-01 22:11:45.575 plugin-container[63895:3549899] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 22:11:45.802 plugin-container[63896:3549922] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533141706038	Marionette	INFO	Listening on port 54478
+1533141706070	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 22:11:46.948 plugin-container[63897:3550084] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+1533144025825	geckodriver	INFO	geckodriver 0.21.0
+1533144025837	geckodriver	INFO	Listening on 127.0.0.1:62260
+1533144026848	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.nc64RO2QPwqB"
+2018-08-01 22:50:29.126 plugin-container[64196:3572125] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x870b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 22:50:29.535 plugin-container[64197:3572151] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533144029960	Marionette	INFO	Listening on port 62271
+1533144030085	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 22:50:30.590 plugin-container[64198:3572267] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533144381438	geckodriver	INFO	geckodriver 0.21.0
+1533144381450	geckodriver	INFO	Listening on 127.0.0.1:63493
+1533144382467	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.HmqwWXGyULID"
+2018-08-01 22:56:24.453 plugin-container[64242:3575734] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 22:56:24.896 plugin-container[64243:3575762] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533144385206	Marionette	INFO	Listening on port 63504
+1533144385250	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 22:56:25.984 plugin-container[64244:3575872] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533147535847	geckodriver	INFO	geckodriver 0.21.0
+1533147535858	geckodriver	INFO	Listening on 127.0.0.1:55241
+1533147536876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nn/lf61tgys5qdg9dzz4w69p9xr0000gn/T/rust_mozprofile.b1jUH8jmYzFW"
+2018-08-01 23:48:59.086 plugin-container[64538:3600174] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-01 23:48:59.584 plugin-container[64539:3600198] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x820b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533147540029	Marionette	INFO	Listening on port 55248
+1533147540063	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-01 23:49:01.130 plugin-container[64541:3600337] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://panchayatelection.maharashtra.gov.in/Scripts/Date/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
