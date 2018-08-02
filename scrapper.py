@@ -2,6 +2,10 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.common.exceptions import StaleElementReferenceException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
@@ -20,8 +24,9 @@ driver.implicitly_wait(30)
 driver.get(url)
 wait = WebDriverWait(driver, 10)
 
-select_ids = ['ContentPlaceHolder1_SearchControl1_DDLLocalBody','ContentPlaceHolder1_SearchControl1_DDLDivision','ContentPlaceHolder1_SearchControl1_DDLDistrict','ContentPlaceHolder1_SearchControl1_DDLMunicipalcorporation','ContentPlaceHolder1_SearchControl1_ddlEP','ContentPlaceHolder1_SearchControl1_DDLWARDGP']
 
+select_ids = ['ContentPlaceHolder1_SearchControl1_DDLLocalBody','ContentPlaceHolder1_SearchControl1_DDLDivision','ContentPlaceHolder1_SearchControl1_DDLDistrict','ContentPlaceHolder1_SearchControl1_DDLMunicipalcorporation','ContentPlaceHolder1_SearchControl1_ddlEP','ContentPlaceHolder1_SearchControl1_DDLWARDGP']
+  
 el = driver.find_element_by_id(select_ids[0])
 local_body_select = Select(el) 
 local_body_options = el.find_elements_by_tag_name('option')
@@ -37,6 +42,14 @@ district_option_value  = []
 district_option_text = []
 district_division = []
 
+taluka_option_value  = []
+taluka_option_text = []
+taluka_district = []
+
+village_option_value  = []
+village_option_text = []
+village_taluka = []
+
 muncipal_option_value  = []
 muncipal_option_text = []
 muncipal_district = []
@@ -51,30 +64,102 @@ ward_election = []
             
 
 for option in local_body_options:
-    local_body_option_value.append(option.get_attribute("value"))
-    local_body_option_text.append(option.text)
+    if option.text != "Select":
+        local_body_option_value.append(option.get_attribute("value"))
+        local_body_option_text.append(option.text)
 
 local_body_data = pd.DataFrame({'value':local_body_option_value, 'text':local_body_option_text })
 
 print(local_body_data.shape[0])
 
-for i in range(1,local_body_data.shape[0]):
-    wait.until(driver.find_element_by_id(select_ids[0]))
+for i in range(0,local_body_data.shape[0]):
+    
+    el = driver.find_element_by_id(select_ids[0])
+    local_body_select = Select(el)     
     local_body_select.select_by_value(local_body_option_value[i])
-    
-    cur = 1
-    
-    el = driver.find_element_by_id(select_ids[cur])
+        
+    el = driver.find_element_by_id(select_ids[1])
     division_select = Select(el) 
     division_options = el.find_elements_by_tag_name('option')
     
     if len(division_options)>1:
         for option in division_options:
-            division_option_value.append(option.get_attribute("value"))
-            division_option_text.append(option.text)
-            division_local_body.append(local_body_option_text[i])
-            
+            if option.text != "Select":
+                division_option_value.append(option.get_attribute("value"))
+                division_option_text.append(option.text)
+                division_local_body.append(local_body_option_text[i])
+                
+division_data = pd.DataFrame({'value': division_option_value, 'text': division_option_text, 'local_body': division_local_body})
 
+
+for j in range(0,division_data.shape[0]):
+        
+    el = driver.find_element_by_id(select_ids[1])
+    division_select = Select(el)     
+    division_select.select_by_value(division_option_value[j])
+        
+    el = driver.find_element_by_id(select_ids[2])
+    district_select = Select(el) 
+    district_options = el.find_elements_by_tag_name('option')
+        
+    if len(district_options)>1:
+        for option in district_options:
+            if option.text != "Select":
+                district_option_value.append(option.get_attribute("value"))
+                district_option_text.append(option.text)
+                district_division.append(division_option_text[j])
+                    
+
+district_data = pd.DataFrame({'value': district_option_value, 'text': district_option_text, 'division': district_division})
+
+
+
+for i in range(0,division_data.shape[0]):
+    
+    el = driver.find_element_by_id(select_ids[0])
+    local_body_select = Select(el)     
+    local_body_select.select_by_value(local_body_option_value[0])
+        
+    el = driver.find_element_by_id(select_ids[1])
+    division_select = Select(el)     
+    division_select.select_by_value(division_option_value[i])
+    
+    for j in range(0,district_data.shape[0]):    
+        el = driver.find_element_by_id(select_ids[2])
+        district_select = Select(el) 
+        district_select.select_by_value(district_option_value[i])
+        
+        el = driver.find_element_by_id(select_ids[3])
+        taluka_select = Select(el) 
+        taluka_options = el.find_elements_by_tag_name('option')
+        
+        if len(taluka_options)>1:
+            for option in taluka_options:
+                if option.text != "Select":
+                    taluka_option_value.append(option.get_attribute("value"))
+                    taluka_option_text.append(option.text)
+                    taluka_district.append(district_option_text[j])
+                    taluka_select.select_by_value(option.get_attribute("value"))
+                    
+                    el = driver.find_element_by_id(select_ids[4])
+                    village_select = Select(el) 
+                    village_options = el.find_elements_by_tag_name('option')
+        
+                    if len(village_options)>1:
+                        for voption in village_options:
+                            if voption.text != "Select":
+                                village_option_value.append(voption.get_attribute("value"))
+                                village_option_text.append(voption.text)
+                                village_taluka.append(option.get_attribute("value"))
+                                
+                el = driver.find_element_by_id(select_ids[3])
+                taluka_select = Select(el)    
+                    
+
+taluka_data = pd.DataFrame({'value': taluka_option_value, 'text': taluka_option_text, 'district': taluka_district})
+    
+
+    
 
 #print(python_select)
 
